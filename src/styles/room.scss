@@ -13,11 +13,22 @@
       > img {
         max-height: 45px;
       }
+
+      > div {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+
+        button {
+          height: 40px;
+        }
+      }
     }
   }
 
   main {
     max-width: 800px;
+    padding: 0 10px;
     margin: 0 auto;
 
     .room-title {
@@ -94,6 +105,10 @@
           }
         }
       }
+    }
+
+    .question-list {
+      margin-top: 32px;
     }
   }
 }
