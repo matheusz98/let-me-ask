@@ -1,3 +1,41 @@
+<h1 align="center"><img src="src/assets/images/logo.svg" alt="Logo" width="200"></h1>
+
+<p align="center">
+<img src="src/assets/images/wallpaper.png" alt="NLW/Together" width="600">
+</p>
+
+<p align="center">Olá! Seja bem-vindo ao meu repositório do projeto Letmeask desenvolvido na NWL/Together da Rocketseat. O projeto desenvolvido é uma sala de perguntas e respostas.
+Na aplicação o usuário pode criar uma sala ou participar de uma, e quando estiver presente na sala, pode fazer perguntas ao anfitrião da sala e curtir as perguntas para serem destacadas. O criador da sala pode gerenciar essas perguntas marcando como lidas, as destacando ou as deletando.</p>
+
+<h2 align="center"> :rocket: Tecnologias Utilizadas :rocket:</h2>
+
+<p align="center">
+  <img src="src/assets/techs/react-original.svg" alt="ReactJS" tittle="ReactJS" width="70" height="70">
+  <img src="src/assets/techs/typescript-original.svg" alt="TypeScript" tittle="TypeScript" width="70" height="70">
+  <img src="src/assets/techs/sass-original.svg" alt="SASS" tittle="SASS" width="70" height="70">
+  <img src="src/assets/techs/firebase-plain.svg" alt="Firebase" tittle="Firebase" width="70" height="70">
+</p>
+
+<h2 align="center"> :computer: Demonstração do Projeto :computer:</h2>
+
+<h3 align="center">Tela inicial</h3>
+<p align="center"><img src="src/assets/screenshots/01.jpg" width="800" alt="Tela inicial"></p>
+
+<h3 align="center">Criando uma sala</h3>
+<p align="center"><img src="src/assets/screenshots/02.jpg" width="800" alt="Criando uma sala"></p>
+
+<h3 align="center">Criando perguntas e interagindo com curtidas</h3>
+<p align="center"><img src="src/assets/screenshots/03.jpg" width="800" alt="Criando perguntas e interagindo com curtidas"></p>
+
+<h3 align="center">Entrando na sala com o código</h3>
+<p align="center"><img src="src/assets/screenshots/04.jpg" width="800" alt="Entrando na sala com o código"></p>
+
+<h3 align="center">Administrador da sala destacando as perguntas,  e marcando como lidas</h3>
+<p align="center"><img src="src/assets/screenshots/05.jpg" width="800" alt="Administrador da sala destacando as perguntas,  e marcando como lidas"></p>
+
+<h2 align="center">Curtiu o repositório? Fique a vontade para fazer uso dele! :grin:</h2>
+<h2 align="center">Muito obrigado pela visita! :smile: :grinning: </h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
